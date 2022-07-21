@@ -1,0 +1,40 @@
+[19-Dec-2021 14:48:18 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/elegance/public_html/includes/init.php on line 3
+[19-Dec-2021 14:48:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/elegance/public_html/Admin/server.php:1) in /home/elegance/public_html/includes/configuration.php on line 7
+[19-Dec-2021 14:49:51 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/elegance/public_html/includes/init.php on line 3
+[19-Dec-2021 14:49:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/elegance/public_html/Admin/server.php:1) in /home/elegance/public_html/includes/configuration.php on line 7
+[19-Dec-2021 14:49:56 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/elegance/public_html/includes/init.php on line 3
+[19-Dec-2021 14:49:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/elegance/public_html/Admin/server.php:1) in /home/elegance/public_html/includes/configuration.php on line 7
+[19-Dec-2021 14:49:56 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/elegance/public_html/includes/init.php on line 3
+[19-Dec-2021 14:49:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/elegance/public_html/Admin/server.php:1) in /home/elegance/public_html/includes/configuration.php on line 7
+[19-Dec-2021 14:50:18 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/elegance/public_html/includes/init.php on line 3
+[19-Dec-2021 14:50:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/elegance/public_html/Admin/server.php:1) in /home/elegance/public_html/includes/configuration.php on line 7
+[19-Dec-2021 14:51:20 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/elegance/public_html/includes/init.php on line 3
+[19-Dec-2021 14:51:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/elegance/public_html/Admin/server.php:1) in /home/elegance/public_html/includes/configuration.php on line 7
+[21-Dec-2021 12:24:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/elegance/public_html/includes/init.php on line 3
+[21-Dec-2021 12:24:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/elegance/public_html/Admin/server.php:1) in /home/elegance/public_html/includes/configuration.php on line 7
+[25-Dec-2021 03:19:51 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/elegance/public_html/includes/init.php on line 3
+[25-Dec-2021 03:19:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/elegance/public_html/Admin/server.php:1) in /home/elegance/public_html/includes/configuration.php on line 7
+[25-Dec-2021 03:19:56 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/elegance/public_html/includes/init.php on line 3
+[25-Dec-2021 03:19:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/elegance/public_html/Admin/server.php:1) in /home/elegance/public_html/includes/configuration.php on line 7
+[25-Dec-2021 03:20:28 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/elegance/public_html/includes/init.php on line 3
+[25-Dec-2021 03:20:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/elegance/public_html/Admin/server.php:1) in /home/elegance/public_html/includes/configuration.php on line 7
+[25-Dec-2021 03:21:16 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/elegance/public_html/includes/init.php on line 3
+[25-Dec-2021 03:21:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/elegance/public_html/Admin/server.php:1) in /home/elegance/public_html/includes/configuration.php on line 7
+[25-Dec-2021 03:22:58 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/elegance/public_html/includes/init.php on line 3
+[25-Dec-2021 03:22:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/elegance/public_html/Admin/server.php:1) in /home/elegance/public_html/includes/configuration.php on line 7
+[25-Dec-2021 03:30:06 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/elegance/public_html/includes/init.php on line 3
+[25-Dec-2021 03:30:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/elegance/public_html/Admin/server.php:1) in /home/elegance/public_html/includes/configuration.php on line 7
+[25-Dec-2021 03:30:22 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/elegance/public_html/includes/init.php on line 3
+[25-Dec-2021 03:30:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/elegance/public_html/Admin/server.php:1) in /home/elegance/public_html/includes/configuration.php on line 7
+[25-Dec-2021 17:53:44 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/elegance/public_html/includes/init.php on line 3
+[25-Dec-2021 17:53:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/elegance/public_html/Admin/server.php:1) in /home/elegance/public_html/includes/configuration.php on line 7
+[25-Dec-2021 17:56:22 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/elegance/public_html/includes/init.php on line 3
+[25-Dec-2021 17:56:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/elegance/public_html/Admin/server.php:1) in /home/elegance/public_html/includes/configuration.php on line 7
+[26-Dec-2021 11:43:51 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/elegance/public_html/includes/init.php on line 3
+[26-Dec-2021 11:43:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/elegance/public_html/Admin/server.php:1) in /home/elegance/public_html/includes/configuration.php on line 7
+[27-Dec-2021 13:42:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/elegance/public_html/includes/init.php on line 3
+[27-Dec-2021 13:42:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/elegance/public_html/Admin/server.php:1) in /home/elegance/public_html/includes/configuration.php on line 7
+[28-Dec-2021 01:18:51 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/elegance/public_html/includes/init.php on line 3
+[28-Dec-2021 01:18:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/elegance/public_html/Admin/server.php:1) in /home/elegance/public_html/includes/configuration.php on line 7
+[28-Dec-2021 13:29:01 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/elegance/public_html/includes/init.php on line 3
+[28-Dec-2021 13:29:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/elegance/public_html/Admin/server.php:1) in /home/elegance/public_html/includes/configuration.php on line 7
